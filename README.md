@@ -47,15 +47,6 @@
 | 🔥 Project | 🚀 Tech Stack | 🌍 Link |
 |------------|-------------|---------|
 | **E-Commerce Website** | HTML, CSS, JavaScript, MySQL | [🔗 GitHub](#) |
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakthi12-rm&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakthi12-rm&theme=default" width="48%" />
-</p>
-
----
 
 ## 🏅 **Certifications**
 - ✅ **Full-Stack Development Workshop**  
