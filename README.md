@@ -13,7 +13,6 @@
 - 💻 **Internship Experience:**  
   - **Software Development Intern** @ AWERUM *(June 2024 - July 2024)*  
   - Worked on an **E-Commerce Software**, collaborating with a team of interns  
-- 🔭 **Current Project:** Personalized Fashion E-Commerce Website  
 - 🌱 **Learning:** Advanced Full-Stack Development, Cloud Computing (AWS, Docker, Kubernetes)  
 - 🏆 **Achievements:**  
   - **Ranked B2 Level** in Lingua Skill  
