@@ -13,7 +13,7 @@
 - 💻 **Internship Experience:**  
   - **Software Development Intern** @ AWERUM *(June 2024 - July 2024)*  
   - Worked on an **E-Commerce Software**, collaborating with a team of interns  
-- 🌱 **Learning:** Advanced Full-Stack Development, Cloud Computing (AWS, Docker, Kubernetes)  
+- 🌱 **Learning:** Advanced Full-Stack Development, Cloud Computing (AWS)  
 - 🏆 **Achievements:**  
   - **Ranked B2 Level** in Lingua Skill  
   - **Elite Level Certification** in NPTEL Industrial 4.0  
